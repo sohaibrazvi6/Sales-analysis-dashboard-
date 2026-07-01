@@ -67,12 +67,6 @@ Superstore Sales Dataset (Sample Business Dataset)
 
 ---
 
-## 📷 Dashboard Preview
-
-(Add your dashboard screenshot here)
-
----
-
 ## 📌 Learning Outcome
 
 This project helped strengthen my understanding of business intelligence, KPI design, interactive dashboard development, and transforming raw data into actionable insights using Power BI.
